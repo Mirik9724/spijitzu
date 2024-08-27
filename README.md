@@ -1,4 +1,4 @@
-# spijitzu
+# spinjitzu
 plugin for spigotmc 1.20.1
 
 permission:
